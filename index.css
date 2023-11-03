@@ -1,0 +1,27 @@
+div{
+    border:dashed rgb(248, 252, 249);
+    background-color: #f01212; margin: 15px; padding: 30px; width: 130px; height: 160px
+}
+section{
+    display: inline-flex;
+}
+body{
+    background-color: blue;
+}
+h1{
+    text-align: center;
+    font-size:larger
+    color-bisque;
+}
+h4{
+    text-align: center;
+    color: rgb(241, 244, 241);
+}
+img{
+    border: dashed rgb(255, 255, 255);
+    background-color: #4F4F4F; margin: 10px; padding: 20px; width: 130px; height: 160px
+}
+header{
+    width: 100
+    ;
+}
